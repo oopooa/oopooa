@@ -1,7 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm Opoa 👋</h1>
+</div>
 
-![Oopooa's GitHub stats](https://github-readme-stats.vercel.app/api?username=oopooa&count_private=true&theme=buefy&show_icons=true)
-
+![Oopooa's GitHub stats](https://github-readme-stats.vercel.app/api?username=oopooa&count_private=true&theme=buefy&show_icons=true) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oopooa&layout=compact)](https://github.com/oopooa/github-readme-stats)
 
 ## 🛠 Tech Stack
@@ -11,9 +12,15 @@
 ### ✨ Currently Learning ✨
 [![Currently Studying](https://skillicons.dev/icons?i=react,electron,rocket)](https://skillicons.dev)
 
-<br/>
 
-<!--START_SECTION:waka-->
+<details>
+ <summary>
+  <h2>
+   📈 Github Stats
+  </h2>
+ </summary>
+
+ <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-130-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-81.5%20thousand%20lines%20of%20code-blue)
@@ -54,17 +61,4 @@ Sunday                   101 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-<!--
-**oopooa/oopooa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
