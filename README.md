@@ -4,7 +4,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oopooa&layout=compact)](https://github.com/oopooa/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=java,maven,html,css,js,nodejs,idea,md,mysql,maven,git,github,elasticsearch,electron,docker,linux,vscode,ubuntu,react,redis,npm,rocket,obsidian,pr,ae)](https://skillicons.dev)
+## 🛠 Tech Stack
+### 🚀 Languages & Frameworks & Tools & Abilities 🚀
+[![Total](https://skillicons.dev/icons?i=java,spring,js,html,css,idea,vscode,git,github,maven,ubuntu,npm,notion,obsidian,mysql,redis,elasticsearch,md,docker,linux&perline=10)](https://skillicons.dev)
+
+### ✨ Currently Learning ✨
+[![Currently Studying](https://skillicons.dev/icons?i=react,electron,rocket)](https://skillicons.dev)
+
+<br/>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-130-blue)
