@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oopooa&layout=compact)](https://github.com/oopooa/github-readme-stats)
 
+[![My Skills](https://skillicons.dev/icons?i=java,maven,html,css,js,nodejs,idea,md,mysql,maven,git,github,elasticsearch,electron,docker,linux,vscode,ubuntu,react,redis,npm,rocket,obsidian,pr,ae)](https://skillicons.dev)
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-130-blue)
 
