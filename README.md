@@ -12,6 +12,8 @@
 ### ✨ Currently Learning ✨
 [![Currently Studying](https://skillicons.dev/icons?i=react,electron,rocket)](https://skillicons.dev)
 
+## 👀 Profile Views
+[![oopooa profile views](https://u8views.com/api/v1/github/profiles/41882826/views/day-week-month-total-count.svg)](https://u8views.com/github/oopooa)
 
 <details>
  <summary>
