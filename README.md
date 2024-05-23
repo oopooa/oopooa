@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>Hi there, I'm Opoa 👋</h1>
-</div>
+![Banner](https://svg-banners.vercel.app/api?type=origin&text1=hi,%20I%E2%80%99m%20opoa%20%F0%9F%A5%B0&Source&width=888&height=188)
 
 ![Oopooa's GitHub stats](https://github-readme-stats.vercel.app/api?username=oopooa&count_private=true&theme=buefy&show_icons=true) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oopooa&layout=compact)](https://github.com/oopooa/github-readme-stats)
