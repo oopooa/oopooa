@@ -59,5 +59,4 @@ Sunday                   93 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 </details>
 
 ## 👀 Profile Views
-[![oopooa profile views](https://u8views.com/api/v1/github/profiles/41882826/views/day-week-month-total-count.svg)](https://u8views.com/github/oopooa)
 [![Hits](https://hits.sh/github.com/oopooa/hits.svg?view=today-total&style=plastic&label=hits)](https://hits.sh/github.com/oopooa/hits/)
