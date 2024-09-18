@@ -8,7 +8,7 @@
 [![Total](https://skillicons.dev/icons?i=java,spring,js,html,css,idea,vscode,git,github,maven,ubuntu,npm,notion,obsidian,mysql,redis,elasticsearch,md,docker,linux,ae,pr&perline=10)](https://skillicons.dev)
 
 ### ✨ Currently Learning ✨
-[![Currently Studying](https://skillicons.dev/icons?i=rocket)](https://skillicons.dev)
+[![Currently Studying](https://skillicons.dev/icons?i=rocket,react)](https://skillicons.dev)
 
 <details>
  <summary>
